@@ -1,0 +1,4 @@
+2025/05/11 12:12:01 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.6:9000", host: "localhost"
+2025/05/11 12:12:03 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.6:9000", host: "localhost"
+2025/05/11 12:12:13 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.6:9000", host: "localhost"
+2025/05/11 12:12:15 [error] 28#28: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.128.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.128.6:9000", host: "localhost"
